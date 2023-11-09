@@ -4,6 +4,8 @@
 #include <ctype.h>
 #include <math.h>
 
+
+
 int main(void)
 {
     string s = get_string("Text: ");
