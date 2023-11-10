@@ -1,5 +1,5 @@
 # CS50
-I will be posting some challenges and labs done in the cs50 - harvard course
+I will be posting some challenges and labs done in the cs50 - Harvard Course
 
 # Module 2 - Arrays
 [Exercise 0: Readability](https://github.com/GuiPolezi/CS50/blob/main/readability.c)
